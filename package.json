@@ -1,0 +1,19 @@
+{
+  "name": "programa2-pruebas",
+  "version": "1.0.0",
+  "description": "contador de lineas de codigo con estandar personalizado",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha test --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MartinEliasQ/Pruebas-Programa2.git"
+  },
+  "author": "mariaimr,leo9512,martineliasq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MartinEliasQ/Pruebas-Programa2/issues"
+  },
+  "homepage": "https://github.com/MartinEliasQ/Pruebas-Programa2#readme"
+}
